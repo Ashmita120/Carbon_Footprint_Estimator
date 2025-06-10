@@ -3,6 +3,11 @@
 
 This project aims to **estimate weekly carbon emissions (CO₂ kg/week)** based on lifestyle inputs like diet, transport, and electricity usage using machine learning regression models.
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carbonfootprintestimator-ashmita54.streamlit.app/)
+
+
 
 ## 🧠 What is a Carbon Footprint?
 
