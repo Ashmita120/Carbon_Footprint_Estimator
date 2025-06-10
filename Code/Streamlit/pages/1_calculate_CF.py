@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load("E://Carbon_Footprint_Estimator//random_forest_CF_model.pkl")
+model = joblib.load("random_forest_CF_model.pkl")
 
 st.title("🧮 Carbon Footprint Calculator")
 
