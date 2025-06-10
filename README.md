@@ -9,7 +9,7 @@ This project aims to estimate weekly carbon emissions (CO₂ kg/week) based on l
 
 ## 🎥 Video Walkthrough
 
-Link: [(https://drive.google.com/file/d/13N5guG7-sKtBtmhSEIDxSA2E_zaSI4TQ/view?usp=sharing)]
+Link: https://drive.google.com/file/d/13N5guG7-sKtBtmhSEIDxSA2E_zaSI4TQ/view?usp=sharing
 
 ## 🧠 What is a Carbon Footprint?
 
