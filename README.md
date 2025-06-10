@@ -143,13 +143,41 @@ To run this project, make sure you have the following Python libraries installed
 | `seaborn`      | Correlation heatmaps, visuals            |
 
 
-### 🔧 Installation
 
-You can install all dependencies using:
+## 🔧 Installation & Usage
 
-```bash
-pip install -r requirements.txt
-```
+You can either run locally or access the hosted web app:
+
+### 💻 Option 1: Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install Dependencies**
+   Make sure Python 3.8+ is installed.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch the App**
+   ```bash
+   streamlit run Home.py
+   ```
+
+4. Open the local URL shown in your terminal (usually `http://localhost:8501`)
+
+---
+
+### 🌐 Option 2: Use the Live Web App
+
+No installation needed! Just click below to launch it in your browser:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carbonfootprintestimator-ashmita54.streamlit.app/)
+
 
 ## 📁 Files
 
