@@ -152,8 +152,8 @@ You can either run locally or access the hosted web app:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Ashmita120/Carbon_Footprint_Estimator.git
+   cd Carbon_Footprint_Estimator
    ```
 
 2. **Install Dependencies**
@@ -174,7 +174,7 @@ You can either run locally or access the hosted web app:
 
 ### 🌐 Option 2: Use the Live Web App
 
-No installation needed! Just click below to launch it in your browser:
+No installation needed! Just launch the webapp:
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carbonfootprintestimator-ashmita54.streamlit.app/)
 
