@@ -1,17 +1,19 @@
 
 # 🌱 Carbon Footprint Estimator using Machine Learning
 
-This project aims to **estimate weekly carbon emissions (CO₂ kg/week)** based on lifestyle inputs like diet, transport, and electricity usage using machine learning regression models.
+This project aims to estimate weekly carbon emissions (CO₂ kg/week) based on lifestyle inputs like diet, transport, and electricity usage using machine learning regression models.
 
 ## 🚀 Live Demo
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carbonfootprintestimator-ashmita54.streamlit.app/)
 
+## 🎥 Video Walkthrough
 
+Link: [(https://drive.google.com/file/d/13N5guG7-sKtBtmhSEIDxSA2E_zaSI4TQ/view?usp=sharing)]
 
 ## 🧠 What is a Carbon Footprint?
 
-A **carbon footprint** is the total amount of greenhouse gases (GHGs), especially **carbon dioxide (CO₂)**, released into the atmosphere as a result of human activities. It is typically measured in **kilograms or tons of CO₂ equivalent (kg CO₂e)**.
+A carbon footprint is the total amount of greenhouse gases (GHGs), especially carbon dioxide (CO₂), released into the atmosphere as a result of human activities. It is typically measured in kilograms or tons of CO₂ equivalent (kg CO₂e).
 
 
 ## 🛑 Major Sources of Carbon Emissions
@@ -105,7 +107,7 @@ The machine learning models learn from past patterns and predict future CO₂ ou
 | Avoid flights                   | ~100–200 kg per trip          |
 
 
-## ⚠️ Challenges
+## ⚠️ Challenges in reducing carbon footprint
 
 - **1. Lack of Awareness:** Many individuals and even organizations are unaware of the extent of their carbon footprint or what activities contribute most to it.
 - **2. Economic Constraints:** Switching to eco-friendly alternatives (e.g., electric vehicles, solar panels, energy-efficient appliances) often requires high upfront costs, which can be a barrier for many households and businesses.
