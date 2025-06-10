@@ -59,7 +59,7 @@ individual commitment and systemic support.
 to resistance to change despite long-term savings.""")
 
 if st.button(" Calculate Now"):
-    st.switch_page("Code//Streamlit//pages//1_calculate_CF.py")
+    st.switch_page("pages/1_calculate_CF.py")
 
 
 
