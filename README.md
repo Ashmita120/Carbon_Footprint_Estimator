@@ -21,7 +21,7 @@ A carbon footprint is the total amount of greenhouse gases (GHGs), especially ca
 1. **Transportation** – Cars, flights, public transport.
 2. **Diet** – Consumption of meat, dairy, or plant-based food.
 3. **Electricity & Energy Use** – From non-renewable sources.
-4. **Goods and Services** – Manufacturing, shopping, packaging, etc.
+4. **Goods and Services** – Manufacturing, shopping, packaging, etc
 
 
 ## 🔍 Methodology: CO₂ Calculation
