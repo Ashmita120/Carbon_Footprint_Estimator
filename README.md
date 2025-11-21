@@ -9,7 +9,8 @@ This project aims to estimate weekly carbon emissions (CO₂ kg/week) based on l
 
 ## 🎥 Video Walkthrough
 
-https://github.com/Ashmita120/Carbon_Footprint_Estimator/blob/main/Project Walkthrough.mp4
+https://github.com/Ashmita120/Carbon_Footprint_Estimator/blob/main/Project%20Walkthrough.mp4
+
 
 Link: https://drive.google.com/file/d/13N5guG7-sKtBtmhSEIDxSA2E_zaSI4TQ/view?usp=sharing
 
